@@ -23,3 +23,12 @@ The system simulates vehicle operating conditions such as:
 - Battery voltage
 
 The simulated vehicle model is based on a Ford EcoSport 1.0L EcoBoost 125 PS configuration, with vehicle and transmission parameters used to make the simulation more physically meaningful rather than generating completely random sensor values.
+
+Tech stack used:
+Python – Vehicle simulation and data processing
+Paho MQTT – MQTT communication
+Mosquitto – MQTT broker
+SQLite – Local telemetry storage
+Pandas – Telemetry data processing
+Streamlit – Interactive dashboard
+streamlit-autorefresh – Automatic dashboard refresh
