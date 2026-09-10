@@ -32,3 +32,6 @@ SQLite – Local telemetry storage
 Pandas – Telemetry data processing
 Streamlit – Interactive dashboard
 streamlit-autorefresh – Automatic dashboard refresh
+
+<img width="1280" height="674" alt="image" src="https://github.com/user-attachments/assets/8cc719c0-a7e2-47da-b89a-2760e0bfc387" />
+
