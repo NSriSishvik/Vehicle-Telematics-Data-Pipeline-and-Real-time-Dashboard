@@ -33,4 +33,5 @@ Pandas – Telemetry data processing
 Streamlit – Interactive dashboard
 streamlit-autorefresh – Automatic dashboard refresh
 
-<img width="1280" height="674" alt="image" src="https://github.com/user-attachments/assets/8cc719c0-a7e2-47da-b89a-2760e0bfc387" />
+<img width="1439" height="824" alt="Screenshot_2026-11-20-16-03-16-26_6012fa4d4ddec268fc5c7112cbb265e7" src="https://github.com/user-attachments/assets/fd60a8de-95bd-40fe-b3ac-446154bdc042" />
+
