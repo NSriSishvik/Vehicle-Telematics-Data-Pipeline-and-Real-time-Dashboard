@@ -35,6 +35,8 @@ streamlit-autorefresh – Automatic dashboard refresh
 
 <img width="1438" height="845" alt="Screenshot_2026-11-20-16-02-04-35_6012fa4d4ddec268fc5c7112cbb265e7" src="https://github.com/user-attachments/assets/079cbeee-dc9c-47aa-971b-c58034830e39" />
 
+<img width="1438" height="835" alt="Screenshot_2026-11-20-16-02-33-99_6012fa4d4ddec268fc5c7112cbb265e7" src="https://github.com/user-attachments/assets/00c27a43-b4e4-4131-81ba-a518d4a1be17" />
 
+<img width="1440" height="654" alt="Screenshot_2026-11-20-16-03-39-53_6012fa4d4ddec268fc5c7112cbb265e7" src="https://github.com/user-attachments/assets/4228fbf1-61d0-4208-9d71-14086d7dc313" />
 
 
